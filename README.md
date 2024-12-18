@@ -1,3 +1,3 @@
 # medium
 
-hii welcome ~~~~~!@@@@!@
+## it has seperrate backend and frontend
