@@ -32,3 +32,8 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+# env
+.env
+.env.production
+.dev.vars
+wrangler.toml
